@@ -1,13 +1,27 @@
-I"�<!-- Main -->
+---
+title: GitHub
+layout: landing
+description: 'A quick and fun introduction to GitHub<br />'
+image: assets/images/pic14.jpg
+nav-menu: true
+---
+
+<!-- Main -->
 <div id="main">
 
 <!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>What is GitHub?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+			<p>People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better.<br>At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. To understand exactly what GitHub is, you need to know two connected principles :
+
+				<ul>
+					<li>Version control</li>
+					<li>Git</li>
+				</ul>			
+			</p>
 	</div>
 </section>
 
@@ -15,7 +29,7 @@
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="/assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -31,7 +45,7 @@
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="/assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -47,7 +61,7 @@
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -77,4 +91,3 @@
 </section>
 
 </div>
-:ET

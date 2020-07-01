@@ -1,8 +1,8 @@
 ---
-title: GitHub
+title: My Projects
 layout: landing
-description: 'A quick and fun introduction to GitHub<br />'
-image: assets/images/pic07.jpg
+description: 'Projects over GitHub useing HTML, Python etc..<br />'
+image: assets/images/pic13.jpg
 nav-menu: true
 ---
 
@@ -13,9 +13,15 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2> Quick Overview</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+			<p>People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better.<br>At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. To understand exactly what GitHub is, you need to know two connected principles :
+
+				<ul>
+					<li>Version control</li>
+					<li>Git</li>
+				</ul>			
+			</p>
 	</div>
 </section>
 
