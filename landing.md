@@ -2,7 +2,7 @@
 title: My Projects
 layout: landing
 description: 'Projects over GitHub useing HTML, Python etc..<br />'
-image: assets/images/pic13.jpg
+image: assets/images/pic18.jpg
 nav-menu: true
 ---
 
