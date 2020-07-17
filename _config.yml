@@ -1,10 +1,11 @@
 # site settings
 title: COdeDEmon
+favicon: assets/favicon/chrome-1281.ico
 subtitle: by Ritwik Raj Singh
 email: ritwikrajdhangta@gmail.com
 description: A responsive site designed using HTML5 <br /> for personal blogs and projects.
 baseurl: # the subpath of your site, e.g. /blog
-url: https://linktr.ee/ritwik_raj_singh_ # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author: Ritwik Raj Singh
 street_address: 1234 Somewhere on Road
 city: Shimla
@@ -20,12 +21,12 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-googleplus_url:
-github_url: https://github.com/Ritwikrajsingh
+github_url: http://gitlab.com/Ritwikrajsingh
 gitlab_url: https://gitlab.com/Ritwikrajsingh
+googleplus_url: https://plus.google.com/u/0/
 instagram_url: https://instagram.com/ritwik_raj_singh_
 linkedin_url: https://www.linkedin.com/in/ritwik-raj-s-189562132
-pinterest_url: 
+pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/RitwikRajSingh2
 

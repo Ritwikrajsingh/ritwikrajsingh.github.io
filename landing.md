@@ -15,24 +15,30 @@ nav-menu: true
 		<header class="major">
 			<h2> Quick Overview</h2>
 		</header>
-			<p>Here are some prjects that I have worked on. You can see the source code, files and repository on GitHub by clicking on the picture of the respective project.</p>
+			<p>People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better.<br>At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. To understand exactly what GitHub is, you need to know two connected principles :
+
+				<ul>
+					<li>Version control</li>
+					<li>Git</li>
+				</ul>			
+			</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://github.com/Ritwikrajsingh/Crawling-Surpent" class="image">
-			<img src="{% link assets/images/snake.png %}" alt="" data-position="center center" />
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Surpent's Crawl</h3>
+					<h3>Orci maecenas</h3>
 				</header>
-				<p>Its a concept of a very popular video game <B><A href="https://en.wikipedia.org/wiki/Snake_(video_game_genre)">Snake</A></B> which I named as <I>Surpent's Crawl</I>. Snake is a video game where the player controls a <i>snake</i> i.e  a dot, square, or object on a plane, which grows when it's head touches another object named as <i>food</i> and it dies if it's head touches the border or itself.</p>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Ritwikrajsingh/Crawling-Surpent" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
