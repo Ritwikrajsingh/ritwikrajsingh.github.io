@@ -1,6 +1,5 @@
 # site settings
 title: COdeDEmon
-favicon: assets/favicon/chrome-1281.ico
 subtitle: by Ritwik Raj Singh
 email: ritwikrajdhangta@gmail.com
 description: A responsive site designed using HTML5 <br /> for personal blogs and projects.
@@ -21,9 +20,9 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: http://gitlab.com/Ritwikrajsingh
+github_url: http://github.com/Ritwikrajsingh
 gitlab_url: https://gitlab.com/Ritwikrajsingh
-googleplus_url: https://plus.google.com/u/0/
+googleplus_url:
 instagram_url: https://instagram.com/ritwik_raj_singh_
 linkedin_url: https://www.linkedin.com/in/ritwik-raj-s-189562132
 pinterest_url:
