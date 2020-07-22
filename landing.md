@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Surpent's Crawl</h3>
 				</header>
-				<p>Its a concept of a very popular video game <B><A href="https://en.wikipedia.org/wiki/Snake_(video_game_genre)">Snake</A></B> which I named as <I>Surpent's Crawl</I>. Snake is a video game where the player controls a <i>snake</i> i.e  a dot, square, or an object on a plane, which grows when it's head touches another object named as <i>food</i> and it dies if it's head touches the border or itself.</p>
+				<p>Its a concept of a very popular video game <strong><A href="https://en.wikipedia.org/wiki/Snake_(video_game_genre)">Snake</A></strong> which I named as <em>Surpent's Crawl</em>. Snake is a video game where the player controls a <em>snake</em> i.e  a dot, square, or an object on a plane, which grows when it's head touches another object named as <em>food</em> and it dies if it's head touches the border or itself.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
