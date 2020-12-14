@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2> Quick Overview</h2>
 		</header>
-			<p>Here are some prjects that I have worked on. You can see the source code, files and repository on GitHub by clicking on the picture of the respective project.</p>
+			<p>Here are some prjects that I have worked on. You can see the source code, files and repository on GitHub by clicking on the picture/Learn more, of the respective project.</p>
 	</div>
 </section>
 
