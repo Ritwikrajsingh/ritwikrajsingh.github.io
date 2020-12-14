@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Surpent's Crawl</h3>
 				</header>
-				<p>Its a concept of a very popular video game <strong><A href="https://en.wikipedia.org/wiki/Snake_(video_game_genre)">Snake</A></strong> which I named as <em>Surpent's Crawl</em>. Snake is a video game where the player controls a <em>snake</em> i.e  a dot, square, or an object on a plane, which grows when it's head touches another object named as <em>food</em> and it dies if it's head touches the border or itself.</p><p>This game is made with the help of <strong>Pygmae</strong> module of <em>Python</em>></p>
+				<p>Its a concept of a very popular video game <strong><A href="https://en.wikipedia.org/wiki/Snake_(video_game_genre)">Snake</A></strong> which I named as <em>Surpent's Crawl</em>. Snake is a video game where the player controls a <em>snake</em> i.e  a dot, square, or an object on a plane, which grows when it's head touches another object named as <em>food</em> and it dies if it's head touches the border or itself.</p><p>This game is made with the help of <strong>Pygmae</strong> module of <em>Python</em>.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Pong</h3>
 				</header>
-				<p><strong><a href="https://en.wikipedia.org/wiki/Pong">Pong</a></strong> is a table <em><a href="https://en.wikipedia.org/wiki/Table_tennis">tennis–themed</em></a> arcade video game, featuring simple two-dimensional graphics. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth. The goal is for each player to reach eleven points before the opponent; points are earned when one fails to return the ball to the other.</p><p>This game is made with help of <strong>Kivy</strong> in <em>Python</em></p>
+				<p><strong><a href="https://en.wikipedia.org/wiki/Pong">Pong</a></strong> is a table <em><a href="https://en.wikipedia.org/wiki/Table_tennis">tennis–themed</a></em> arcade video game, featuring simple two-dimensional graphics. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth. The goal is for each player to reach eleven points before the opponent; points are earned when one fails to return the ball to the other.</p><p>This game is made with help of <strong>Kivy</strong> in <em>Python</em>.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
