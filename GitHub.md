@@ -1,7 +1,7 @@
 ---
 title: GitHub
 layout: landing
-description: 'A quick and fun introduction to GitHub<br />'
+description: 'A quick introduction to GitHub<br />'
 image: assets/images/pic14.jpg
 nav-menu: true
 ---
