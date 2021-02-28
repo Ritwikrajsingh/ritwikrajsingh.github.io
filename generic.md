@@ -14,14 +14,16 @@ I'm a student of computer science.
 
 > *All time*
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&custom_title=My_GitHub_Stats&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&custom_title=My_GitHub_Stats&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true "GitHub Stats!")
 <br>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true "Languages Stats!")
 
 > *About this website*
-<p align="right"><img align="right" srd="https://github-readme-stats.vercel.app/api/pin/?username=Ritwikrajsingh&repo=ritwikrajsingh.github.io&show_owner=true&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true"><br>
-<img align="right" srd="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true&hide=Python&layout=compact">
-</p>
+
+![Repo Card]https://github-readme-stats.vercel.app/api/pin/?username=Ritwikrajsingh&repo=ritwikrajsingh.github.io&show_owner=true&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true "ritwikrajsingh.github.io | Repo Card!"]
+<br>
+![Languages Used]https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true&hide=Python&layout=compact "Languages Used"]
+
 
 <!--
 <div>
