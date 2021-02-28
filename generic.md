@@ -14,7 +14,7 @@ I'm a student of computer science.
 
 > *All time*
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&custom_title=My_GitHub_Stats&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&custom_title=My_GitHub_Stats&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true)
 <br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true)
 
