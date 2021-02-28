@@ -6,39 +6,12 @@ image: assets/images/pic15.jpg
 nav-menu: true
 ---
 
-I'm a student of computer science.
+- Currently a student of Computer Science, still learning, crazy for gadgets, can easily be lured by a cup of tea and .... Yeah! I'm [technophilic](# "According to Wikipedia, Technophilic is a personality, having strong enthusiasm for technology, especially new technologies such as; personal computers, the Internet, mobile phones, etc..").
 
-<header class="major">
-	<h3>GitHub Stats</h3>
-</header>
-
-> *All time*
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&custom_title=My GitHub Stats&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true "GitHub Stats!")
-<br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true "Languages Stats!")
-
-> *About this website*
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritwikrajsingh&repo=ritwikrajsingh.github.io&show_owner=true&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true "ritwikrajsingh.github.io | Repo Card!") 
-<br>
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true&hide=Python&layout=compact "Languages Used") 
+---
+### GitHub Stats
+>![Stats](https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&custom_title=My GitHub Stats&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true "Stats")
 
 
-<!--
-<div>
-<p align="center">  
-<img align="center" title="Demon's Stats" width="536px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&icon_color=#e5958c&show_icons=true&hide_border=true&hide=prs&theme=nightowl&layout=compact" /><img align="center" title="Languages Used" width="317px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&icon_color=#e5958c&langs_count=6&theme=nightowl&hide_border=true" />
-</p>
-</div>
-  #blue_light = "2a2f4a"
-  #blue_dark = "242943"
-  #purple = "8d82c4"
-  #cyan = "9bf1ff"
-  #peach = "ec8d81"
-
-[title]:&title_color=8d82c4
-[text]:&text_color=9bf1ff
-[icon]:&icon_color=ec8d81
-[bg]:&bg_color=242943
-!-->
+### Most used Languages
+>![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true&layout=compact "Languages Stats!")
