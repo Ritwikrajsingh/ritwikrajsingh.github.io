@@ -1,4 +1,7 @@
-# Forty - Jekyll Theme
+<p align="center">
+ <img width="100px" src="/assets/favicon/favicon.png" align="center" alt="ritwikrajsingh.github.io" />
+ <h1 align="center">COdeDEmon</h1>
+</p>
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
@@ -56,7 +59,7 @@ aj@lkn.io | @ajlkn
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Unsplash (unsplash.com), Pixabay (pixabay.com)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
