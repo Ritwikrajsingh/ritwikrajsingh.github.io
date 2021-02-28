@@ -6,12 +6,12 @@ description: A responsive site designed using HTML5 <br /> for personal blogs an
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Ritwik Raj Singh
-street_address: 1234 Somewhere on Road
+street_address: 1234, Somewhere on Road
 city: Shimla
 state: Himachal Pradesh
-zip_code: 171005
+zip_code: 171204
 country: India
-phone: (91) 8580595318
+phone: (+91) 8580595318
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
