@@ -20,9 +20,9 @@ I'm a student of computer science.
 
 > *About this website*
 
-![Repo Card]https://github-readme-stats.vercel.app/api/pin/?username=Ritwikrajsingh&repo=ritwikrajsingh.github.io&show_owner=true&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true "ritwikrajsingh.github.io | Repo Card!"]
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritwikrajsingh&repo=ritwikrajsingh.github.io&show_owner=true&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true "ritwikrajsingh.github.io | Repo Card!") 
 <br>
-![Languages Used]https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true&hide=Python&layout=compact "Languages Used"]
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true&hide=Python&layout=compact "Languages Used") 
 
 
 <!--
