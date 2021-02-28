@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="/assets/favicon/favicon.png" align="center" alt="ritwikrajsingh.github.io" />
+ <img width="110px" src="/assets/favicon/favicon.png" align="center" alt="ritwikrajsingh.github.io" title="COdeDEmon | ritwikrajsingh.github.io"/>
  <h1 align="center">COdeDEmon</h1>
 </p>
 
