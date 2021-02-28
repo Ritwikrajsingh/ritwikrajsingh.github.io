@@ -12,7 +12,10 @@ I'm a student of computer science.
 	<h3>Some GitHub Stats</h3>
 </header>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&custom_title=My GitHub Stats&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=242943)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=242943)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritwikrajsingh&repo=ritwikrajsingh.github.io&show_owner=true&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=242943)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&custom_title=My GitHub Stats&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=242943)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=242943)
+> About this repository
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritwikrajsingh&repo=ritwikrajsingh.github.io&show_owner=true&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=242943)
 
 
 <!--
