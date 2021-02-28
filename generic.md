@@ -11,18 +11,18 @@ I'm a student of computer science.
 <header class="major">
 	<h3>GitHub Stats</h3>
 </header>
-> All time
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&custom_title=My_GitHub_Stats&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=242943)
+> *All time*
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&custom_title=My_GitHub_Stats&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a)
 <br>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=242943)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true)
 
-> About this website
+> *About this website*
 
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritwikrajsingh&repo=ritwikrajsingh.github.io&show_owner=true&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=242943)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritwikrajsingh&repo=ritwikrajsingh.github.io&show_owner=true&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true)
 <br>
-![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=242943&hide=Python&layout=compact)
+![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true&hide=Python&layout=compact)
 
 
 <!--
