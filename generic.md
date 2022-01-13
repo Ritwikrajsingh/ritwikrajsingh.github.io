@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About me
-description: Wanna know about what do I do ?
+description: Wanna know about who do I am?
 image: assets/images/pic15.jpg
 nav-menu: true
 ---
