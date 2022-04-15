@@ -14,4 +14,4 @@ nav-menu: true
 
 
 ### Most used Languages
->![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true&layout=compact&hide=scss "Languages Stats!")
+>![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&icon_color=ec8d81&title_color=8d82c4&text_color=9bf1ff&bg_color=2a2f4a&hide_border=true&layout=compact&hide=scss,javaScript "Languages Stats!")
